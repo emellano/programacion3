@@ -1,4 +1,4 @@
-<h1>en que estacion estamos?</h1>
+<h1>En que estacion estamos?</h1>
 <?php
 
 if (date('ms')>=1221 && date('ms')<=320) {
